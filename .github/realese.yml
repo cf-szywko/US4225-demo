@@ -9,6 +9,9 @@ changelog:
       labels:
         - Semver-Major
         - breaking-change
+    - title: New Features 🛠
+      labels:
+        - feature
     - title: Exciting New Features 🎉
       labels:
         - Semver-Minor
